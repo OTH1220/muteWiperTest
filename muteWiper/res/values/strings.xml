@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">静音爱消除</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="useWiperTitle">是否使用静音自动消除功能？</string>
+    <string name="positiveButtonMessage">使用</string>
+    <string name="negativeButtonMessage">不使用</string>
+    <string name="useWiper">系统已处于静音模式，是否设置自动消除静音时间？</string>
+    <string name="use_wiper_pos">去设置</string>
+    <string name="use_wiper_neg">不</string>
+    
+	
+</resources>
